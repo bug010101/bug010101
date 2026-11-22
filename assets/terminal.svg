@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="292" viewBox="0 0 760 292">
+  <!-- terminal window -->
+  <rect x="0" y="0" width="760" height="292" rx="14" fill="#161b22"/>
+  <rect x="0" y="0" width="760" height="40" rx="14" fill="#0d1117"/>
+  <rect x="0" y="39" width="760" height="1" fill="#30363d"/>
+
+  <!-- traffic lights -->
+  <circle cx="24" cy="20" r="6.5" fill="#ff5f57"/>
+  <circle cx="44" cy="20" r="6.5" fill="#febc2e"/>
+  <circle cx="64" cy="20" r="6.5" fill="#28c840"/>
+
+  <!-- window title -->
+  <text x="380" y="25" text-anchor="middle" font-family="Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="12" fill="#8b949e">bug010101 — zsh — 80×24</text>
+
+  <g font-family="Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="13">
+    <!-- $ whoami -->
+    <text x="24" y="74"><tspan fill="#3fb950" font-weight="bold">$</tspan><tspan fill="#e6edf3"> whoami</tspan></text>
+    <text x="24" y="98"><tspan fill="#e6edf3" font-weight="bold">bug010101</tspan><tspan fill="#8b949e">  //  Computer Vision Engineer</tspan></text>
+
+    <!-- $ ls ~/expertise -->
+    <text x="24" y="146"><tspan fill="#3fb950" font-weight="bold">$</tspan><tspan fill="#e6edf3"> ls </tspan><tspan fill="#79c0ff">~/expertise</tspan></text>
+    <text x="24" y="170"><tspan fill="#79c0ff">detection  segmentation  tracking  3d-vision</tspan></text>
+    <text x="24" y="190"><tspan fill="#79c0ff">generative  cuda  deployment</tspan></text>
+
+    <!-- $ cat ~/.status -->
+    <text x="24" y="238"><tspan fill="#3fb950" font-weight="bold">$</tspan><tspan fill="#e6edf3"> cat </tspan><tspan fill="#79c0ff">~/.status</tspan></text>
+    <text x="24" y="262"><tspan fill="#8b949e">Teaching machines to see — and making it run fast enough to matter.</tspan></text>
+
+    <!-- prompt + cursor -->
+    <text x="24" y="282"><tspan fill="#3fb950" font-weight="bold">$</tspan></text>
+    <rect x="34" y="271" width="8" height="14" fill="#3fb950"/>
+  </g>
+</svg>

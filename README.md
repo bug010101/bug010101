@@ -2,22 +2,8 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d1117,100:238636&section=header&text=bug010101&fontSize=64&fontColor=ffffff&desc=Computer%20Vision%20%C2%B7%20Systems%20%C2%B7%20Deployment&descSize=18&descAlignY=70&animation=fadeIn" alt="header" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=3FB950&center=true&vCenter=true&width=620&lines=%24+whoami;%24+ls+~%2Fexpertise;%24+cat+~%2F.status;%24+_" alt="terminal" />
+  <img src="assets/terminal.svg" width="760" alt="terminal" />
 </p>
-
-<!-- ================= TERMINAL ================= -->
-```bash
-$ whoami
-bug010101  //  Computer Vision Engineer
-
-$ ls ~/expertise
-detection  segmentation  tracking  3d-vision  generative  cuda  deployment
-
-$ cat ~/.status
-Teaching machines to see — and making it run fast enough to matter.
-
-$
-```
 
 <!-- ================= CONNECT ================= -->
 <p align="center">
