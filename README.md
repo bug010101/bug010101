@@ -39,12 +39,6 @@
   <img width="70%" src="https://streak-stats.demolab.com?user=bug010101&theme=tokyonight&hide_border=true&date_format=Y.m.j" />
 </p>
 
-### Trophy
-
-<p align="center">
-  <img width="95%" src="https://github-profile-trophy.vercel.app/?username=bug010101&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" alt="trophy" />
-</p>
-
 <p align="center">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=bug010101&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" />
 </p>
